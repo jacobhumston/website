@@ -62,8 +62,11 @@ ul {
     text-align: left;
 }
 
+li {
+    font-size: 20px;
+}
+
 div {
     font-family: PTSans-Regular;
     text-align: center;
-    font-size: 20px;
 }
